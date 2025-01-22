@@ -4,8 +4,8 @@ STUDENT ID : 2023437202
 
 GROUP : CDCS2703B1
 
-LECTURER NAME : SIR MUHAMMAD ATIF BIN RAMLAN
----------------------------------------------
+GROUP : CDCS2703B1
+
 ------------------
 PROJECT BACKGROUND
 ------------------
